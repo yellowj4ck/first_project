@@ -1,1 +1,1 @@
-# firtst_project
+# first_project
